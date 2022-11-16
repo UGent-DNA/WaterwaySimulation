@@ -16,6 +16,3 @@ Project in collaboration with Port of Antwerp-Bruges.
 
 The configuration.py file makes it possible to make small changes to the run configuration: which experiments to perform, what data to include, which file destinations to use...
 After changing configurations.py, run the program by running sample/main.py
-
-Good luck!
-Simon Van den Eynde
