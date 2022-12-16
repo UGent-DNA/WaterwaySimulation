@@ -5,7 +5,7 @@ Project in collaboration with Port of Antwerp-Bruges.
 
 ### Get started
 
-1. Add the data files from @link in the resources folder
+1. Add the data files from [data_link](https://doi.org/10.17605/OSF.IO/5KDMZ) in the resources folder
 2. Set up the configuration file to create pkl files (transform_csv_to_pkl=True) and run experiments (experiments = "all")
 3. Run sample/main.py
 4. Disable creating .pkl files (to avoid doing double work: transform_csv_to_pkl=False)
